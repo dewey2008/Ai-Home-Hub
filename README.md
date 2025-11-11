@@ -1,0 +1,2 @@
+# school-ai-project
+lisd
